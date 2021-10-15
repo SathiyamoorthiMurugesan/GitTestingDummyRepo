@@ -1,9 +1,10 @@
 package testingGit;
 
-public class New {
+public class Other {
 
 	public static void main(String[] args) {
-//		adding
+		// TODO Auto-generated method stub
+
 	}
 
 }
