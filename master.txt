@@ -1,2 +1,2 @@
-adding some comment to testing the stash
-Adding some more line to this file
+added directly from git hub
+testing 
