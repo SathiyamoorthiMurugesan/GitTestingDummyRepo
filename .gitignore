@@ -1,8 +1,9 @@
 /target/
-/bin/
+bin/
 /testing/
 .classpath
 /.settings/
 .project
-/test1/
+/new/
+test1/
 /test2/
