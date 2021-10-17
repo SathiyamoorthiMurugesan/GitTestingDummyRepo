@@ -1,7 +1,7 @@
-target/
+/target/
 bin/
-testing/
+/testing/
 .classpath
-.settings/
+/.settings/
 .project
-new/
+/new/
