@@ -1,6 +1,15 @@
+<<<<<<< HEAD
 .classpath
 .project
 .settings/
 bin/
 target/
 testing/
+=======
+target/
+bin/
+testing/
+.classpath
+.settings/
+.project
+>>>>>>> master
