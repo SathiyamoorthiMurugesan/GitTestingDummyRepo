@@ -1,1 +1,2 @@
 this is master text file 
+adding some comment to testing the stash
